@@ -7,6 +7,6 @@ o processo de aprendizado. Este projeto em específico, demonstra a aptidão do 
 de apredizado, qual, com certeza, será de grande valia para as rotinas laborais no universo da programação.</p>
 <br>
 <h3>Resultados</h3>
-<img src="">
+<img src="https://github.com/sidsantos87/Projeto-Sorteio/blob/main/assets/Captura%20de%20tela%202025-07-29%20115658.png">
 <img src="">
 <img src="https://github.com/sidsantos87/Projeto-Sorteio/blob/main/assets/Captura%20de%20tela%202025-07-29%20115233.png">
